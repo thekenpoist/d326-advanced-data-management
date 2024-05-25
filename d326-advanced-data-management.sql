@@ -174,7 +174,7 @@ UPDATE detailed_table SET store_id = 4 WHERE store_id = 3;
 
 
 -- The next few commands are for deleting the date from the tables --
--- and for dropping the trigger, procedures, fucntions, and tables --
+-- and for dropping the trigger, procedures, functions, and tables --
 
 DELETE FROM summary_table;
 DELETE FROM detailed_table;
